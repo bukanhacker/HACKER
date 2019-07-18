@@ -16,14 +16,14 @@ clear
 pip2 install urllib3 chardet certifi idna requests
 clear
 echo
-echo $me"####################["$cy"WELCOME"$me"]#############"
-echo $me"#"$i"   _                _             "$me"       #"
-echo $me"#"$i"  | |              | |            "$me"       #"
-echo $me"#"$i"  | |__   __ _  ___| | _____ _ __ "$me"       #"
-echo $me"#"$i"  | '_ \ / _` |/ __| |/ / _ \ '__|"$me"       #"
-echo $me"#"$i"  | | | | (_| | (__|   <  __/ |   "$me"       #"
-echo $me"#"$i"  |_| |_|\__,_|\___|_|\_\___|_|   "$me"       #"
-echo $me"#####################################################"
+echo $me"####################["$cy"WELCOME"$me"]#################"
+echo $me"#"$i"   _                _                       "$me" #"
+echo $me"#"$i"  | |              | |                      "$me" #"
+echo $me"#"$i"  | |__   __ _  ___| | _____ _ __           "$me" #"
+echo $me"#"$i"  | '_ \ / _` |/ __| |/ / _ \ '__|          "$me" #"
+echo $me"#"$i"  | | | | (_| | (__|   <  __/ |             "$me" #"
+echo $me"#"$i"  |_| |_|\__,_|\___|_|\_\___|_|             "$me" #"
+echo $me"########################################################"
 echo $me"#"$pu" SIMPAN SCRIPT DEFACE LU DI PENYIMPANAN CUK"$me"       #"
 echo $me"#"$pu" INTERNAL LALU KASIH NAMA SCRIPT DEFACE KAMU CUK"$me"  #"
 echo $me"#"$pu" MENJADI index.html {KALAU  SUDAH KITA LANJUT CUK"$me" #"
