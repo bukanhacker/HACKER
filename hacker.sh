@@ -29,7 +29,7 @@ echo $me"#######################################################"
 echo $me"#"$pu" SIMPAN SCRIPT DEFACE LU DI PENYIMPANAN CUK"$me"       #"
 echo $me"#"$pu" INTERNAL LALU KASIH NAMA SCRIPT DEFACE KAMU CUK"$me"  #"
 echo $me"#"$pu" MENJADI index.html {KALAU  SUDAH KITA LANJUT CUK"$me" #"
-echo $me"#"$pu" MY TEAM   : INDONESIA G4BUT TEAM"$me"				  #"
+echo $me"#"$pu" MY TEAM   : INDONESIA G4BUT TEAM "$me"				        #"
 echo $me"#"$pu" THANKS TO : Xnouble23 - Cyber_@49 - Wawanz_@50"$me"   #"
 echo $me"#######################################################"
 sleep 3
