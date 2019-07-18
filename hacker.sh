@@ -16,15 +16,13 @@ clear
 pip2 install urllib3 chardet certifi idna requests
 clear
 echo
-echo $me"####################["$cy"WELCOME"$me"]########################"
-echo $me"#"$i"  888                     888                     "$me" #"
-echo $me"#"$i"  888                     888                     "$me" #"
-echo $me"#"$i"  888                     888                     "$me" #"
-echo $me"#"$i"  88888b.  8888b.  .d8888b888  888 .d88b. 888d888 "$me" #"
-echo $me"#"$i"  888 "88b    "88bd88P"   888 .88Pd8P  Y8b888P"   "$me" #"
-echo $me"#"$i"  888  888.d888888888     888888K 88888888888     "$me" #"
-echo $me"#"$i"  888  888888  888Y88b.   888 "88bY8b.    888     "$me  #"
-echo $me"#"$i"  888  888"Y888888 "Y8888P888  888 "Y8888 888     "$me  #"
+echo $me"####################["$cy"WELCOME"$me"]#############"
+echo $me"#"$i"   _                _             "$me"       #"
+echo $me"#"$i"  | |              | |            "$me"       #"
+echo $me"#"$i"  | |__   __ _  ___| | _____ _ __ "$me"       #"
+echo $me"#"$i"  | '_ \ / _` |/ __| |/ / _ \ '__|"$me"       #"
+echo $me"#"$i"  | | | | (_| | (__|   <  __/ |   "$me"       #"
+echo $me"#"$i"  |_| |_|\__,_|\___|_|\_\___|_|   "$me"       #"
 echo $me"#####################################################"
 echo $me"#"$pu" SIMPAN SCRIPT DEFACE LU DI PENYIMPANAN CUK"$me"       #"
 echo $me"#"$pu" INTERNAL LALU KASIH NAMA SCRIPT DEFACE KAMU CUK"$me"  #"
